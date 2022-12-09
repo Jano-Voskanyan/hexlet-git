@@ -1,3 +1,0 @@
-INFasdasd
-new line
-test
